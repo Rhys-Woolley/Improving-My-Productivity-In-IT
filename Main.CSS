@@ -1,0 +1,10 @@
+body {background-color: powderblue;}
+.center{
+text-align: center;
+}
+.large{
+    font-size: 50px;
+}
+
+h1 {color: blue;
+ position: centre;}
